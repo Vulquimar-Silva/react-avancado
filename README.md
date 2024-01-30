@@ -1,40 +1,45 @@
-## React Avançado
+# Curso React Avançado
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Este repositório contém o material e as instruções para o curso [React Avançado](https://www.udemy.com/course/react-avancado/) disponível na Udemy.
 
-## Getting Started
+### O que é ensinado no curso
 
-First, run the development server:
+- Melhores práticas para estruturar projetos React em grande escala.
+- Aprofundar-se em Hooks e Context API.
+- Gerenciamento de estado avançado com Redux e Redux Saga.
+- Construir aplicações com performance otimizada.
+- Testar seus componentes e aplicações com Jest e Testing Library.
+- Integração com APIs e manipulação de dados assíncronos.
+- Next.js para renderização do lado do servidor e geração de sites estáticos.
+- Estilização avançada com Styled Components.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Como começar
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. **Clone este repositório**
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+    ```bash
+    git clone https://github.com/Vulquimar-Silva/boilerplate-apps-router
+    cd boilerplate-apps-router
+    ```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+2. **Instale as dependências**
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+    ```bash
+    npm install
+    ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. **Inicie o servidor de desenvolvimento**
 
-## Learn More
+    ```bash
+    npm run dev
+    # ou
+    yarn dev
+    # ou
+    pnpm dev
+    # ou
+    bun dev
+    ```
 
-To learn more about Next.js, take a look at the following resources:
+## Licença
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Este projeto está licenciado sob a Licença MIT.
