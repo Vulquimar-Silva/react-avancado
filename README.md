@@ -18,7 +18,7 @@ Este repositório contém o material e as instruções para o curso [React Avan�
 1. **Clone este repositório**
 
     ```bash
-    git clone https://github.com/Vulquimar-Silva/boilerplate-apps-router
+    git clone https://github.com/Vulquimar-Silva/react-avancado-start.git
     cd boilerplate-apps-router
     ```
 
